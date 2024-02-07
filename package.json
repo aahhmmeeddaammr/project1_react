@@ -1,6 +1,4 @@
 {
-    "homepage": "https://aahhmmeeddaammr.github.io/project1_react/public/index.html",
-
   "name": "project",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +14,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "prestart": "npm start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
